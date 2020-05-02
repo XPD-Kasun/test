@@ -1,3 +1,4 @@
 This is working2 branch man.
 Some text.
+==master deleted
 git fn. changed from working2. Work2 branch. Another work2 modification. Some more work2 modification.
