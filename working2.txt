@@ -1,3 +1,3 @@
 This is working2 branch man.
 Some text.
-git fn. changed from working2. Work2 branch.
+git fn. changed from working2. Work2 branch. Another work2 modification.
